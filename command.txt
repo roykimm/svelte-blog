@@ -2,3 +2,7 @@ npm init svelte@next gobella-blog
 npx svelte-add@latest tailwindcss
 npm install -D graphql-request graphql env-cmd daisyui @tailwindcss/typography
 npm run dev -- --open --port 3333
+
+build------
+
+npm install -D @sveltejs/adapter-static@next
